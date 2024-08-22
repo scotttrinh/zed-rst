@@ -1,12 +1,12 @@
 [package]
-name = "nix"
+name = "rst"
 version = "0.1.0"
 publish = false
 edition = "2021"
 
 [lib]
-path = "src/nix.rs"
+path = "src/rst.rs"
 crate-type = ["cdylib"]
 
 [dependencies]
-zed_extension_api = "0.0.6"
+zed_extension_api = "0.1.0"

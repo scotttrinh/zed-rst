@@ -1,0 +1,3 @@
+name = "reStructuredText"
+grammar = "rst"
+path_suffixes = ["rst"]
